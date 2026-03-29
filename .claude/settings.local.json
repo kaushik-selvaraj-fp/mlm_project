@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(source c:/mycode/mlm_project/.venv/Scripts/activate)",
+      "Bash(python -c \":*)"
+    ]
+  }
+}
