@@ -18,7 +18,7 @@ torchvision>=0.10.0
 transformers>=4.20.0
 
 # Computer Vision Models
-insightface>=0.2.0
+# insightface>=0.2.0
 
 # Notebook & Visualization
 jupyter>=1.0.0
